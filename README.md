@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- My name is Calvin Mokua.
+- I am interseted in building web and mobile applications to help solve problems.
+- I use Javascript with Typescript.
+- I am proficient in MEAN and MERN stack
+- Feel free to reach me @ inficalvin@gmail.com
+
 <!--
 **Infinical/Infinical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
